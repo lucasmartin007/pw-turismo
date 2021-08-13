@@ -1,0 +1,13 @@
+.login form{
+    background-color:lightblue;
+}
+
+.wp-core-ui .button.button-large{
+    background-color:rgb(255, 172, 17);
+}
+
+.wp-core-ui .button.button-large:hover{
+    background-color:rgb(255, 166, 0);
+}
+    
+    
